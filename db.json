@@ -6,21 +6,28 @@
       "password": "password123",
       "proxy_url": "192.168.49.1",
       "proxy_port": "8228",
-      "active": true
+      "active": false
     },
     {
       "id": "f3e5",
       "name": "Starbucks ",
       "proxy_url": "192.168.49.2",
       "proxy_port": "89098",
-      "active": true
+      "active": false
     },
     {
       "id": "3bcb",
       "name": "Nasi goreng jawa",
       "proxy_url": "150.000",
       "proxy_port": "2",
-      "active": false
+      "active": true
+    },
+    {
+      "id": "3f8e",
+      "name": "Sate Ayam madura",
+      "proxy_url": "jl.rapocini raya no. 114",
+      "proxy_port": "3",
+      "active": true
     }
   ]
 }
